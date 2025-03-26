@@ -3,7 +3,7 @@ Mail::SPF 3.20240617 -- A Perl implementation of the Sender Policy Framework
     2005      Shevek <cpan@anarres.org>
 <http://search.cpan.org/dist/Mail-SPF>
 ==============================================================================
-[[Home]]
+<https://github.com/ChaosCrafter/mail-spf/wiki>
 Mail::SPF is an object-oriented Perl implementation of the Sender Policy
 Framework (SPF) e-mail sender authentication system.
 
